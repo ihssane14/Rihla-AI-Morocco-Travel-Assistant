@@ -55,8 +55,11 @@ RIHLA/
 │── create_embeddings.py
 
 │── morocco_destinations.json
+
 │── requirements.txt
+
 │── .gitignore
+
 │── README.md
 
 # Installation & Setup
@@ -69,7 +72,9 @@ pip install -r requirements.txt
 
 # Create a .env file
 PINECONE_API_KEY=your_key_here
+
 HUGGINGFACE_API_KEY=your_key_here
+
 PINECONE_INDEX_NAME=rihla-morocco
 
 
@@ -98,6 +103,7 @@ REST API
 # Academic Purpose 
 
 This project was developed as an educational AI project to demonstrate how semantic search and AI can be combined to build intelligent applications.
+
 
 
 
