@@ -1,5 +1,5 @@
 
-🇲🇦 Rihla – AI-Powered Morocco Travel Assistant
+# 🇲🇦 Rihla – AI-Powered Morocco Travel Assistant
 
 Rihla is an AI-powered travel assistant that helps users explore Morocco by asking natural language questions.
 It uses semantic search and Retrieval-Augmented Generation (RAG) to provide accurate and contextual travel recommendations.
@@ -94,4 +94,5 @@ REST API
 # Academic Purpose 
 
 This project was developed as an educational AI project to demonstrate how semantic search and AI can be combined to build intelligent applications.
+
 
