@@ -47,9 +47,13 @@ Data: JSON (Morocco destinations)
 # Project Structure
 RIHLA/
 │── main.py
+
 │── app.py
+
 │── config.py
+
 │── create_embeddings.py
+
 │── morocco_destinations.json
 │── requirements.txt
 │── .gitignore
@@ -94,5 +98,6 @@ REST API
 # Academic Purpose 
 
 This project was developed as an educational AI project to demonstrate how semantic search and AI can be combined to build intelligent applications.
+
 
 
