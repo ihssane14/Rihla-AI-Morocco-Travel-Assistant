@@ -74,7 +74,7 @@ PINECONE_INDEX_NAME=rihla-morocco
 python main.py
 
 
-API will be available at:
+API available at:
 
 http://127.0.0.1:8000
 
@@ -93,8 +93,3 @@ REST API
 🎓 Academic Purpose
 
 This project was developed as an educational AI project to demonstrate how semantic search and AI can be combined to build intelligent applications.
-
-👤 Author
-
-Rihla Project – AI Travel Assistant
-Student Project
