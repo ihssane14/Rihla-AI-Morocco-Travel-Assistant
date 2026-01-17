@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "city": "Marrakech",
+    "place": "Jemaa el-Fnaa",
+    "type": "Cultural",
+    "description": "The beating heart of Marrakech, this UNESCO World Heritage square transforms throughout the day. By evening, it becomes a vibrant spectacle of storytellers, musicians, snake charmers, acrobats, and food stalls serving traditional Moroccan cuisine.",
+    "tips": "Visit in the evening for the full experience. Keep your belongings secure. Try fresh orange juice (4-6 MAD). The rooftop cafes around the square offer great views.",
+    "cost": "Free entry. Food: 20-50 MAD per person",
+    "best_time": "Evening (sunset onwards)"
+  },
+  {
+    "id": 2,
+    "city": "Marrakech",
+    "place": "Jardin Majorelle",
+    "type": "Garden",
+    "description": "A stunning botanical garden created by French painter Jacques Majorelle in the 1920s and later restored by Yves Saint Laurent. Features exotic plants from five continents and the iconic cobalt blue villa.",
+    "tips": "Buy tickets online to skip queues. Visit early morning (8-9 AM) to avoid crowds and heat. Photography is allowed.",
+    "cost": "Garden: 70 MAD. Garden + YSL Museum: 130 MAD",
+    "best_time": "Early morning (8-9 AM)"
+  },
+  {
+    "id": 3,
+    "city": "Marrakech",
+    "place": "Bahia Palace",
+    "type": "Historical",
+    "description": "A masterpiece of Moroccan architecture built in the late 19th century for Grand Vizier Ba Ahmed. The palace showcases intricate tilework, carved cedar ceilings, and beautiful courtyards with orange trees.",
+    "tips": "Arrive early to avoid tour groups. Hire a guide (50-100 MAD) for detailed history. Good for photos - morning light is best.",
+    "cost": "Entry: 70 MAD for adults",
+    "best_time": "Early morning (9-10 AM)"
+  },
+  {
+    "id": 4,
+    "city": "Fes",
+    "place": "Fes el-Bali (Old Medina)",
+    "type": "Historical",
+    "description": "The world's largest car-free urban zone and a UNESCO World Heritage site. Home to the University of Al Quaraouiyine (founded 859 AD, the world's oldest continuously operating university), ancient tanneries, and over 9,000 narrow alleyways.",
+    "tips": "Hire an official guide (200-300 MAD for half day) - the medina is extremely confusing. Comfortable walking shoes essential. Visit Chouara Tannery in morning.",
+    "cost": "Free to explore. Official guide: 200-300 MAD/half day",
+    "best_time": "Early morning (8-10 AM)"
+  },
+  {
+    "id": 5,
+    "city": "Fes",
+    "place": "Chouara Tannery",
+    "type": "Cultural",
+    "description": "The largest and oldest tannery in Fes, operating since the 11th century using ancient techniques. Workers dye leather in colorful stone wells containing natural dyes like saffron, indigo, henna, and mint.",
+    "tips": "The smell is intense - accept offered mint sprigs for your nose. Best viewed from leather shop terraces. Morning light is best for photos.",
+    "cost": "Free to view from terraces. Small tip appreciated (10-20 MAD)",
+    "best_time": "Morning (9-11 AM)"
+  },
+  {
+    "id": 6,
+    "city": "Chefchaouen",
+    "place": "Blue Pearl Medina",
+    "type": "Cultural",
+    "description": "The entire old town painted in various shades of blue, creating a photographer's paradise. Founded in 1471, the tradition of blue-washing began in the 1930s when Jewish refugees painted buildings blue.",
+    "tips": "Best photos in early morning or late afternoon light. Get lost in the blue alleyways - every corner is photo-worthy. Try local goat cheese.",
+    "cost": "Free to wander. Accommodation: 150-400 MAD/night",
+    "best_time": "Early morning (7-9 AM)"
+  },
+  {
+    "id": 7,
+    "city": "Chefchaouen",
+    "place": "Spanish Mosque",
+    "type": "Viewpoint",
+    "description": "A hilltop mosque with panoramic views of Chefchaouen's blue medina and the Rif Mountains. Built by the Spanish in the 1920s, it's now the town's most popular viewpoint.",
+    "tips": "Wear sturdy shoes - the path is rocky and steep. Start 45 minutes before sunset. Bring water. Very popular spot.",
+    "cost": "Free access",
+    "best_time": "Sunset (arrive 30 minutes before)"
+  },
+  {
+    "id": 8,
+    "city": "Sahara Desert",
+    "place": "Erg Chebbi Dunes",
+    "type": "Natural",
+    "description": "Morocco's most spectacular sand dunes near Merzouga, reaching heights of up to 150 meters. Offers classic desert experience with camel treks, overnight camps, and stunning sunrises/sunsets.",
+    "tips": "Book 2-3 day tour from Marrakech or Fes. Bring warm clothes (desert nights are cold). Spring and fall are best seasons. Sandboarding available.",
+    "cost": "Desert tours: 600-1500 MAD depending on duration",
+    "best_time": "March-May and September-November"
+  },
+  {
+    "id": 9,
+    "city": "Casablanca",
+    "place": "Hassan II Mosque",
+    "type": "Religious",
+    "description": "One of the largest mosques in the world, completed in 1993. The minaret stands 210 meters tall. Built partially over the Atlantic Ocean with a glass floor allowing worshippers to pray above the waves.",
+    "tips": "One of few mosques in Morocco open to non-Muslims (guided tours only). Book tours in advance. Modest dress required. Remove shoes.",
+    "cost": "Guided tour: 130 MAD for adults",
+    "best_time": "Morning tours (9-10 AM) less crowded"
+  },
+  {
+    "id": 10,
+    "city": "Essaouira",
+    "place": "Essaouira Medina",
+    "type": "Cultural",
+    "description": "A UNESCO-listed coastal medina with distinctive blue and white Portuguese-influenced architecture. Known for its laid-back atmosphere, art galleries, seafood, and consistent Atlantic winds.",
+    "tips": "Much more relaxed than Marrakech or Fes. Visit the fish port in morning for fresh catches. Try grilled sardines at port (20-30 MAD).",
+    "cost": "Free to explore medina. Fresh fish at port: 30-60 MAD per person",
+    "best_time": "Year-round destination"
+  },
+  {
+    "id": 11,
+    "city": "Ouarzazate",
+    "place": "Ait Ben Haddou",
+    "type": "Historical",
+    "description": "UNESCO World Heritage fortified village, famous filming location for Game of Thrones, Gladiator, and Lawrence of Arabia. Ancient mud-brick architecture on hillside overlooking valley.",
+    "tips": "Climb to the top for panoramic views. Visit early morning for best photos and fewer crowds. Stay overnight to see sunset and sunrise.",
+    "cost": "Entry: 10 MAD. Local guide: 100-150 MAD",
+    "best_time": "Early morning or late afternoon"
+  },
+  {
+    "id": 12,
+    "city": "Ouarzazate",
+    "place": "Atlas Film Studios",
+    "type": "Cultural",
+    "description": "One of the world's largest film studios. Tour sets from Gladiator, Kingdom of Heaven, The Mummy, and more. Working studio with active productions.",
+    "tips": "Book tour in advance. Tours last 1-2 hours. Can be hot in summer - bring water. Photography allowed.",
+    "cost": "Studio tour: 60-80 MAD",
+    "best_time": "Morning (9-11 AM)"
+  },
+  {
+    "id": 13,
+    "city": "Agadir",
+    "place": "Agadir Beach",
+    "type": "Beach",
+    "description": "10km of sandy beach, modern resort city. Perfect for beach vacation, surfing, and water sports. Family-friendly with many activities.",
+    "tips": "Best beach weather May-October. Many all-inclusive resorts. Good surf spots. Modern city, less traditional.",
+    "cost": "Free beach. Sun beds: 50-100 MAD. Water sports: 200-500 MAD",
+    "best_time": "May-October"
+  },
+  {
+    "id": 14,
+    "city": "Agadir",
+    "place": "Souk El Had",
+    "type": "Shopping",
+    "description": "Agadir's largest market with 6,000 shops. Spices, produce, clothing, crafts, traditional items. Authentic local shopping.",
+    "tips": "Open every day except Monday. Go early for fresh produce. Bargaining expected. Try argan oil and honey.",
+    "cost": "Free entry. Shopping varies",
+    "best_time": "Morning (8-12 PM)"
+  },
+  {
+    "id": 15,
+    "city": "Tangier",
+    "place": "Cape Spartel",
+    "type": "Natural",
+    "description": "Northwestern point of Africa where Atlantic meets Mediterranean. Lighthouse with stunning views and nearby Hercules Caves.",
+    "tips": "Best at sunset. Combine with cave visit. 14km from Tangier. Can be windy. Popular photo spot.",
+    "cost": "Free viewing. Cave: 10 MAD. Taxi: 150-200 MAD",
+    "best_time": "Sunset"
+  },
+  {
+    "id": 16,
+    "city": "Tangier",
+    "place": "Tangier Medina",
+    "type": "Cultural",
+    "description": "Historic medina with international influences. Kasbah Museum, American Legation Museum, cafes with views.",
+    "tips": "Visit Cafe Hafa for mint tea. Less hassle than other medinas. Relaxed atmosphere. Good nightlife.",
+    "cost": "Free to explore. Museums: 20-30 MAD",
+    "best_time": "Morning or late afternoon"
+  },
+  {
+    "id": 17,
+    "city": "Meknes",
+    "place": "Bab Mansour",
+    "type": "Historical",
+    "description": "One of Morocco's most impressive gates, completed in 1732. Stunning Moorish architecture with zellij tilework.",
+    "tips": "Free to view. Visit nearby El Hedim Square. Beautiful at night when lit. Major landmark.",
+    "cost": "Free",
+    "best_time": "Late afternoon or evening"
+  },
+  {
+    "id": 18,
+    "city": "Meknes",
+    "place": "Volubilis",
+    "type": "Historical",
+    "description": "Best-preserved Roman ruins in Morocco, UNESCO site. Impressive mosaics, triumphal arch. Ancient city from 3rd century BC.",
+    "tips": "30km from Meknes. Hire guide. Bring sun protection. Early morning or late afternoon best. Allow 2 hours.",
+    "cost": "Entry: 70 MAD. Guide: 150-200 MAD",
+    "best_time": "Early morning (8-10 AM)"
+  },
+  {
+    "id": 19,
+    "city": "Rabat",
+    "place": "Kasbah of the Udayas",
+    "type": "Historical",
+    "description": "12th-century fortress overlooking Atlantic. Blue and white streets, Andalusian gardens. UNESCO site.",
+    "tips": "Don't miss gardens and ocean-view cafe. Free to explore. Beautiful at sunset. Less touristy.",
+    "cost": "Free entry. Garden: 10 MAD",
+    "best_time": "Late afternoon/sunset"
+  },
+  {
+    "id": 20,
+    "city": "Rabat",
+    "place": "Hassan Tower",
+    "type": "Historical",
+    "description": "Iconic minaret of incomplete mosque from 1195. Mausoleum of King Mohammed V. Important national monument.",
+    "tips": "Free entry. Watch changing of guards. Combine with Kasbah visit. Respectful dress for mausoleum.",
+    "cost": "Free",
+    "best_time": "Late afternoon"
+  },
+  {
+    "id": 21,
+    "city": "Dades Valley",
+    "place": "Dades Gorge",
+    "type": "Natural",
+    "description": "Spectacular canyon with towering cliffs. Winding mountain road. Part of Route of 1000 Kasbahs.",
+    "tips": "Best as part of desert tour. Famous hairpin bends. Beautiful in spring when almond trees bloom.",
+    "cost": "Free to visit. Accommodation: 200-600 MAD",
+    "best_time": "Spring (March-May) or Fall"
+  },
+  {
+    "id": 22,
+    "city": "Todra Gorge",
+    "place": "Todra Canyon",
+    "type": "Natural",
+    "description": "Narrow 300-meter high limestone canyon. Crystal clear river, rock climbing paradise.",
+    "tips": "Walk into gorge early morning. Bring water shoes. Watch rock climbers. Very hot in summer.",
+    "cost": "Free access. Accommodation: 150-400 MAD",
+    "best_time": "Morning (8-11 AM)"
+  },
+  {
+    "id": 23,
+    "city": "Atlas Mountains",
+    "place": "Imlil Village",
+    "type": "Natural",
+    "description": "Mountain village, base for Toubkal treks. Traditional Berber architecture, stunning scenery. 90 min from Marrakech.",
+    "tips": "Good shoes essential. Hire guide for treks. Visit Berber houses. Mule rides available.",
+    "cost": "Day trip: 300-500 MAD. Accommodation: 150-400 MAD",
+    "best_time": "April-October"
+  },
+  {
+    "id": 24,
+    "city": "Atlas Mountains",
+    "place": "Ouzoud Waterfalls",
+    "type": "Natural",
+    "description": "Morocco's highest waterfalls at 110 meters. Wild Barbary macaques. Swimming pools.",
+    "tips": "150km from Marrakech. Bring swimsuit. Don't feed monkeys. Boat rides available.",
+    "cost": "Free entry. Guide: 50-100 MAD. Tour: 250-400 MAD",
+    "best_time": "Spring (March-May)"
+  },
+  {
+    "id": 25,
+    "city": "Asilah",
+    "place": "Asilah Medina",
+    "type": "Cultural",
+    "description": "Charming coastal town with whitewashed walls and colorful murals. Annual International Arts Festival.",
+    "tips": "Much quieter. Famous street art. Best during festival (July-August). Good beaches nearby.",
+    "cost": "Free to explore. Accommodation: 250-600 MAD",
+    "best_time": "Summer (June-August)"
+  },
+  {
+    "id": 26,
+    "city": "Tetouan",
+    "place": "Tetouan Medina",
+    "type": "Cultural",
+    "description": "UNESCO medina with Andalusian influence. White buildings, traditional crafts. Less touristy.",
+    "tips": "Very authentic. Excellent crafts. Try local pastries. Friendly people. Base for Rif Mountains.",
+    "cost": "Free to explore. Accommodation: 200-500 MAD",
+    "best_time": "Spring or Fall"
+  },
+  {
+    "id": 27,
+    "city": "Merzouga",
+    "place": "Desert Camp",
+    "type": "Adventure",
+    "description": "Overnight Berber tent camping in dunes. Camel trek, sunset, stargazing, traditional dinner and music.",
+    "tips": "Luxury camps have bathrooms. Bring headlamp, warm layers. Book reputable operator.",
+    "cost": "Standard: 400-600 MAD. Luxury: 1000-1500 MAD",
+    "best_time": "October-April"
+  },
+  {
+    "id": 28,
+    "city": "Merzouga",
+    "place": "Khamlia Village",
+    "type": "Cultural",
+    "description": "Village known for Gnaoua music. Descendants of sub-Saharan people. Authentic performances.",
+    "tips": "Arrange through operator. Afternoon performances. Tip musicians. Respectful experience.",
+    "cost": "Performance tip: 50-100 MAD. Tea: 10 MAD",
+    "best_time": "Afternoon"
+  },
+  {
+    "id": 29,
+    "city": "Essaouira",
+    "place": "Essaouira Port",
+    "type": "Cultural",
+    "description": "Working fishing port with blue boats. Morning fish auction. Fresh seafood grilled on spot.",
+    "tips": "Visit morning for auction. Choose fish to be grilled (50-100 MAD). Watch boat building.",
+    "cost": "Free. Grilled fish: 50-150 MAD",
+    "best_time": "Morning (8-11 AM)"
+  },
+  {
+    "id": 30,
+    "city": "Marrakech",
+    "place": "Saadian Tombs",
+    "type": "Historical",
+    "description": "16th-century royal necropolis. Beautiful marble tombs, intricate tilework, peaceful garden.",
+    "tips": "Small site but worth it. Often queues - go early. 15 min from Bahia Palace.",
+    "cost": "Entry: 70 MAD",
+    "best_time": "Early morning"
+  },
+  {
+    "id": 31,
+    "city": "Marrakech",
+    "place": "Koutoubia Mosque",
+    "type": "Religious",
+    "description": "Marrakech's largest mosque with 77m minaret. Finest Almohad architecture. Beautiful illuminated at night.",
+    "tips": "Non-Muslims cannot enter. Exterior and gardens beautiful. Best at sunset. Close to Jemaa el-Fnaa.",
+    "cost": "Free (exterior only)",
+    "best_time": "Sunset"
+  },
+  {
+    "id": 32,
+    "city": "Marrakech",
+    "place": "Marrakech Souks",
+    "type": "Shopping",
+    "description": "Labyrinth of traditional markets. Spices, leather, carpets, lanterns, jewelry, argan oil.",
+    "tips": "Bargain - start at 50%. Keep valuables secure. Hire guide first visit. Best: leather, spices.",
+    "cost": "Free to explore",
+    "best_time": "Morning (9 AM-12 PM)"
+  },
+  {
+    "id": 33,
+    "city": "Fes",
+    "place": "Bou Inania Madrasa",
+    "type": "Historical",
+    "description": "14th-century Islamic school. Non-Muslims can enter. Extraordinary zellige, carved cedar, marble.",
+    "tips": "Most beautiful building in Fes. Take time for details. Good lighting. Near Bab Boujloud.",
+    "cost": "Entry: 20 MAD",
+    "best_time": "Mid-morning"
+  },
+  {
+    "id": 34,
+    "city": "Chefchaouen",
+    "place": "Ras El Maa",
+    "type": "Natural",
+    "description": "Small waterfall at medina edge. Pleasant stream with cafes. Refreshing spot with mountain views.",
+    "tips": "Relaxing break. Good for mint tea. Water cold in summer. Popular with locals afternoon.",
+    "cost": "Free. Cafes: 15-30 MAD",
+    "best_time": "Afternoon"
+  },
+  {
+    "id": 35,
+    "city": "Casablanca",
+    "place": "Corniche Ain Diab",
+    "type": "Beach",
+    "description": "Beachfront promenade with restaurants, beach clubs, cafes. Modern, cosmopolitan atmosphere.",
+    "tips": "Best for evening stroll. Beach clubs charge entry. Good seafood. Visit Rick's Cafe.",
+    "cost": "Free promenade. Clubs: 100-300 MAD. Dinner: 150-400 MAD",
+    "best_time": "Evening"
+  },
+  {
+    "id": 36,
+    "city": "Rabat",
+    "place": "Chellah",
+    "type": "Historical",
+    "description": "Ancient Roman and medieval ruins in gardens. Storks nesting on ruins. UNESCO site.",
+    "tips": "For history lovers. Look for storks. Beautiful in spring. Less crowded.",
+    "cost": "Entry: 70 MAD",
+    "best_time": "Late afternoon"
+  },
+  {
+    "id": 37,
+    "city": "Marrakech",
+    "place": "Le Jardin Secret",
+    "type": "Garden",
+    "description": "Restored 19th-century palace garden. Islamic and exotic gardens. Tower with medina views.",
+    "tips": "Less crowded than Majorelle. Climb tower. Educational about water. Cafe on-site.",
+    "cost": "Garden: 50 MAD. Tower: +20 MAD",
+    "best_time": "Mid-morning"
+  },
+  {
+    "id": 38,
+    "city": "Fes",
+    "place": "Nejjarine Museum",
+    "type": "Cultural",
+    "description": "18th-century funduq, now museum of Moroccan woodworking. Rooftop cafe with medina views.",
+    "tips": "Peaceful escape. Excellent rooftop cafe. Well-curated. Allow 30-45 min.",
+    "cost": "Entry: 20 MAD",
+    "best_time": "Afternoon"
+  },
+  {
+    "id": 39,
+    "city": "Essaouira",
+    "place": "Skala de la Ville",
+    "type": "Historical",
+    "description": "18th-century sea bastion with cannons. Ocean views. Game of Thrones filming location.",
+    "tips": "Sunset spectacular. Watch craftsmen. Can be windy. Walk entire rampart.",
+    "cost": "Free",
+    "best_time": "Sunset"
+  },
+  {
+    "id": 40,
+    "city": "Marrakech",
+    "place": "Menara Gardens",
+    "type": "Garden",
+    "description": "Historic garden with reflecting pool. Atlas Mountain backdrop. Olive groves from 12th century.",
+    "tips": "Free entry. Best at sunset with mountains. Popular picnic spot. 3km from medina.",
+    "cost": "Free",
+    "best_time": "Late afternoon/sunset"
+  }
+]
