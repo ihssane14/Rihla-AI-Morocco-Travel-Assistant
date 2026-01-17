@@ -1,9 +1,10 @@
+
 🇲🇦 Rihla – AI-Powered Morocco Travel Assistant
 
 Rihla is an AI-powered travel assistant that helps users explore Morocco by asking natural language questions.
-It uses semantic search and AI generation (RAG) to provide accurate and contextual travel recommendations.
+It uses semantic search and Retrieval-Augmented Generation (RAG) to provide accurate and contextual travel recommendations.
 
-🚀 Features
+# Features
 
 AI chat for Morocco travel questions
 
@@ -17,7 +18,7 @@ Pinecone vector database
 
 HuggingFace LLM (Mistral)
 
-🧠 How It Works (Architecture)
+# How It Works (Architecture)
 
 The user asks a question from the frontend
 
@@ -31,7 +32,7 @@ The answer is returned to the user
 
 This follows the RAG (Retrieval-Augmented Generation) approach.
 
-🛠️ Tech Stack
+# Tech Stack
 
 Backend: FastAPI (Python)
 
@@ -43,7 +44,7 @@ LLM: Mistral-7B (HuggingFace)
 
 Data: JSON (Morocco destinations)
 
-📂 Project Structure
+# Project Structure
 RIHLA/
 │── main.py
 │── app.py
@@ -54,23 +55,23 @@ RIHLA/
 │── .gitignore
 │── README.md
 
-⚙️ Installation & Setup
-1️⃣ Clone the repository
+# Installation & Setup
+# Clone the repository
 git clone https://github.com/YOUR_USERNAME/rihla-ai-travel-assistant.git
 cd rihla-ai-travel-assistant
 
-2️⃣ Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-3️⃣ Create a .env file
+# Create a .env file
 PINECONE_API_KEY=your_key_here
 HUGGINGFACE_API_KEY=your_key_here
 PINECONE_INDEX_NAME=rihla-morocco
 
 
-⚠️ Do not upload .env to GitHub
 
-▶️ Run the Project
+
+# Run the Project
 python main.py
 
 
@@ -80,7 +81,7 @@ http://127.0.0.1:8000
 
 Docs: http://127.0.0.1:8000/docs
 
-📊 Key Concepts Used
+# Key Concepts Used 
 
 Semantic Search
 
@@ -90,6 +91,7 @@ Retrieval-Augmented Generation (RAG)
 
 REST API
 
-🎓 Academic Purpose
+# Academic Purpose 
 
 This project was developed as an educational AI project to demonstrate how semantic search and AI can be combined to build intelligent applications.
+
